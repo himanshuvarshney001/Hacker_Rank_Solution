@@ -1,1 +1,1 @@
-# 🚀Hacker_Rank_Solution🚀
+# 🚀HackerRank_Solution🚀
