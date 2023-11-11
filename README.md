@@ -22,3 +22,6 @@ Discover the answer to various [HackerRank](https://www.hackerrank.com/) challen
 
 ## 🙋 Disclaimer
 While these solutions provide insights, but my suggestion to you, first try it yourself first.
+
+## 🌟 Contribution
+Your feedback can make these solutions even better! Feel free to submit a pull request or open an issue.
