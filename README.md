@@ -5,7 +5,9 @@ Discover the answer to various [HackerRank](https://www.hackerrank.com/) challen
 .
 ├── C/
 │   └── example.c
-├── Python/
-│   └── example.py
-└── SQL/
-    └── example.sql
+├── Problem Solving/
+│   └── example
+|── C++/
+|    └── example
+├── Java/
+│   └── example
