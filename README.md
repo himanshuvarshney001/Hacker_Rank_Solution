@@ -10,4 +10,5 @@ Discover the answer to various [HackerRank](https://www.hackerrank.com/) challen
 |── C++/
 |    └── example
 ├── Java/
-│   └── example
+│   └── example.java
+## 📌 Language Covered
