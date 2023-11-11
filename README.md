@@ -1,4 +1,4 @@
-## 🚀Hacker_Rank_Solution🚀
+b## 🚀Hacker_Rank_Solution🚀
 Discover the answer to various [HackerRank](https://www.hackerrank.com/) challenge sorted by programming language. Navigate through specific folders to each language and explore topic-wise solutions.
 ## 📁Directory Structure
 ```bash
@@ -16,3 +16,4 @@ Discover the answer to various [HackerRank](https://www.hackerrank.com/) challen
 ## 📌 Language Covered
 
 - 📜 C - Deep dive into c Programming language 
+- Problem solving is writing an original program that performs a particular set of tasks and meets all stated constraints
