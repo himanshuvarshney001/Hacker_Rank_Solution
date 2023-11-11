@@ -14,3 +14,5 @@ Discover the answer to various [HackerRank](https://www.hackerrank.com/) challen
 ```
 
 ## 📌 Language Covered
+
+.📜 C - Deep dive into c Programming language 
