@@ -9,5 +9,3 @@ Discover the answer to various [HackerRank](https://www.hackerrank.com/) challen
 │   └── example.py
 └── SQL/
     └── example.sql
-...
- 
