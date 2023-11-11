@@ -11,5 +11,5 @@ Discover the answer to various [HackerRank](https://www.hackerrank.com/) challen
 |    └── example
 ├── Java/
 │   └── example.java
-...
+'''
 ## 📌 Language Covered
